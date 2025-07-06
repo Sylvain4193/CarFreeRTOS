@@ -1,0 +1,9 @@
+../Bsp/Key/bsp_key.c:10:16:Key1_is_Press	8	static
+../Bsp/Key/bsp_key.c:23:16:Key2_is_Press	8	static
+../Bsp/Key/bsp_key.c:36:16:Key3_is_Press	8	static
+../Bsp/Key/bsp_key.c:51:9:Key1_Long_Press	16	static
+../Bsp/Key/bsp_key.c:74:9:Key2_Long_Press	16	static
+../Bsp/Key/bsp_key.c:96:9:Key1_State	16	static
+../Bsp/Key/bsp_key.c:125:9:Key2_State	16	static
+../Bsp/Key/bsp_key.c:154:9:Key3_Long_Press	16	static
+../Bsp/Key/bsp_key.c:176:9:Key3_State	16	static

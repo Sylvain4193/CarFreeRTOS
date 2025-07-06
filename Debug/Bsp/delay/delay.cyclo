@@ -1,0 +1,3 @@
+../Bsp/delay/delay.c:11:6:Delay_Init	1
+../Bsp/delay/delay.c:21:6:delay_us	2
+../Bsp/delay/delay.c:28:6:Delay_Ms	2

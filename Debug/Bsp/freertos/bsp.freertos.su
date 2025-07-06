@@ -1,0 +1,13 @@
+../Bsp/freertos/bsp.freertos.c:39:6:vApplicationGetIdleTaskMemory	24	static
+../Bsp/freertos/bsp.freertos.c:53:6:MX_FREERTOS_Init	16	static
+../Bsp/freertos/bsp.freertos.c:102:6:StartTask_RGB	16	static
+../Bsp/freertos/bsp.freertos.c:117:6:StartTask_KEY	16	static
+../Bsp/freertos/bsp.freertos.c:132:6:StartTask_LED	16	static
+../Bsp/freertos/bsp.freertos.c:147:6:StartTask_PS2	16	static
+../Bsp/freertos/bsp.freertos.c:162:6:StartTask_Buzzer	16	static
+../Bsp/freertos/bsp.freertos.c:177:6:StartTask_USRanging	16	static
+../Bsp/freertos/bsp.freertos.c:192:6:StartTask_QuickChat	16	static
+../Bsp/freertos/bsp.freertos.c:207:6:StartTask_Encoder	16	static
+../Bsp/freertos/bsp.freertos.c:222:6:StartTask_Motor	16	static
+../Bsp/freertos/bsp.freertos.c:230:6:StartTask_Servo	16	static
+../Bsp/freertos/bsp.freertos.c:238:6:StartTask_Temperature	16	static

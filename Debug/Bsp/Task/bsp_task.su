@@ -1,0 +1,11 @@
+../Bsp/Task/bsp_task.c:7:6:Task_Entity_RGB	8	static
+../Bsp/Task/bsp_task.c:29:6:Task_Entity_BEEP	24	static
+../Bsp/Task/bsp_task.c:72:6:Task_Entity_LED	8	static
+../Bsp/Task/bsp_task.c:92:6:Task_Entity_KEY	8	static
+../Bsp/Task/bsp_task.c:113:6:Task_Entity_PS2	8	static
+../Bsp/Task/bsp_task.c:122:6:Task_Entity_OLED	24	static
+../Bsp/Task/bsp_task.c:145:6:Task_Entity_USRanging	32	static
+../Bsp/Task/bsp_task.c:158:6:Task_Entity_Encoder	8	static
+../Bsp/Task/bsp_task.c:167:6:Task_Entity_Motor	16	static
+../Bsp/Task/bsp_task.c:187:6:Task_Entity_Servo	16	static
+../Bsp/Task/bsp_task.c:204:6:Task_Entity_Temperature	56	static

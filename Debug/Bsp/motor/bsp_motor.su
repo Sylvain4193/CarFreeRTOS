@@ -1,0 +1,3 @@
+../Bsp/motor/bsp_motor.c:9:16:Motor_Ignore_Dead_Zone	16	static
+../Bsp/motor/bsp_motor.c:19:6:Motor_Stop	16	static
+../Bsp/motor/bsp_motor.c:34:6:Motor_Set_Pwm	24	static

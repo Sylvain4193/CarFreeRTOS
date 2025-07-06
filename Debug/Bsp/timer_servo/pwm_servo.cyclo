@@ -1,0 +1,4 @@
+../Bsp/timer_servo/pwm_servo.c:14:17:PwmServo_Angle_To_Pulse	1
+../Bsp/timer_servo/pwm_servo.c:21:6:PwmServo_Handle	3
+../Bsp/timer_servo/pwm_servo.c:35:6:PwmServo_Init	2
+../Bsp/timer_servo/pwm_servo.c:45:6:PwmServo_Set_Angle	3

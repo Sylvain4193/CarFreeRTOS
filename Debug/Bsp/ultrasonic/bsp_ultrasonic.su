@@ -1,0 +1,2 @@
+../Bsp/ultrasonic/bsp_ultrasonic.c:9:7:Get_distance	8	static
+../Bsp/ultrasonic/bsp_ultrasonic.c:14:7:Get_distance_default	32	static
